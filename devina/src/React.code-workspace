@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "learn-ups",
+			"path": "../../learn-ups"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "learn-ups"
+	}
+}
