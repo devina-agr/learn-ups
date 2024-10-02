@@ -37,3 +37,6 @@
   }
 }
 /* App.css */
+.custom-leading {
+  line-height: 1; /* Adjust this value to control line spacing */
+}
