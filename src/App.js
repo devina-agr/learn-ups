@@ -10,6 +10,8 @@ function App() {
 
     <div>
      <Front></Front>
+
+
     </div>
 
 
