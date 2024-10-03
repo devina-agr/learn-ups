@@ -1,12 +1,16 @@
 import './App.css';
 import Footer from './components/Footer';
+import Front from './components/front';
 
 function App() {
   return (
+
     <div>
-      Resource Page
+      <Front/>
       <Footer />
     </div>
+
+
   );
 }
 
