@@ -13,7 +13,7 @@ const Front = () => {
             top="7px"
             left="2px"
           />
-          <h1 className='font-inter text-[24px] font-semibold leading-[29.05px] text-left absolute w-[358px] h-[29.81px] top-[11px] left-[40px] mt-[-10px] '>
+          <h1 className='font-inter text-[24px] font-extrabold leading-[29.05px] text-left absolute w-[358px] h-[29.81px] top-[11px] left-[40px] mt-[-10px] '>
             ElixirTechCommunity
           </h1>
         </div>
