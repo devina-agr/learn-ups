@@ -1,6 +1,7 @@
 import './App.css';
 import Footer from './components/Footer';
 import Front from './components/front';
+import Jumboster from './components/jumboster';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Front/>
       <Footer />
+      <Jumboster/>
     </div>
 
 
