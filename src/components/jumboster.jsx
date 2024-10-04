@@ -14,7 +14,7 @@ const Jumboster = () => {
                 <input
                     type='text'
                     placeholder='Search a Resource...'
-                    className=' h-10 placeholder:text-[32px] font-inter pl-6 pr-4 ml-2 text-3xl' 
+                    className=' h-10 outline-none placeholder:text-[32px] font-inter pl-6 pr-4 ml-2 text-3xl' 
                 />
                 <button className='text-4xl rounded-full bg-[#9EB5EE] text-white w-40 h-16 font-bold font-inter mr-1 pb-1'>
                     Search
