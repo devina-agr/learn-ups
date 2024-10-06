@@ -40,3 +40,19 @@
 .custom-leading {
   line-height: 1; /* Adjust this value to control line spacing */
 }
+.resourses-text{
+  font-family:'Bree Serif';
+  /* line-height: 1.35; */
+  font-size: 231px;
+  margin-bottom: 32px;
+  /* font-weight:; */
+}
+.text{
+  font-family: 'Bree Serif';
+  /* font-weight:black; */
+  max-width: 400px;
+  min-width: 200px;
+  font-size: 40px;
+  margin-top: 135px;
+}
+

@@ -2,14 +2,18 @@ import './App.css';
 import Footer from './components/Footer';
 import Front from './components/front';
 import Jumboster from './components/jumboster';
+import Tittlebox from './components/tittlebox';
 
 function App() {
   return (
 
     <div>
       <Front/>
-      <Footer />
+      
+      
+      
       <Jumboster/>
+      <Tittlebox/><Footer />
     </div>
 
 
