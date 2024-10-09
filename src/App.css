@@ -43,16 +43,21 @@
 .resourses-text{
   font-family:'Bree Serif';
   /* line-height: 1.35; */
-  font-size: 231px;
-  margin-bottom: 32px;
+  font-size: 180px;
+  /* margin-bottom: 10px; */
   /* font-weight:; */
 }
 .text{
   font-family: 'Bree Serif';
   /* font-weight:black; */
   max-width: 400px;
-  min-width: 200px;
+  min-width: 300px;
   font-size: 40px;
-  margin-top: 135px;
+  margin-top: 88px;
+  margin-left: 5px;
+}
+.button1{
+  font-family:'Bree Serif';
+  font-size: 150px;
 }
 
