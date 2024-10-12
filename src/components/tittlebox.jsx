@@ -3,7 +3,7 @@ import React from "react";
 const Tittlebox =()=>{
        return(
         <div>
-            <div className='w-[98%] h-[3px] bg-[#BBBBBB] mx-auto item '></div>
+            <div className='w-[98%] h-[3px] bg-[#BBBBBB] mx-auto item'></div>
             <div className="bg-[#fde288] rounded-2xl p-4 m-5 flex justify-between relative text-black flex-col sm:flex-col min-w-fit">
             <div className="md:flex justify-between font-black justify-between text-7xl gap-10  space-x-4 ">
                <div className="flex  item-center h-fit">
