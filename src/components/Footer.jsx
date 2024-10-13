@@ -3,7 +3,7 @@ import { Icon } from '@iconify/react/dist/iconify.js'
 
 const Footer = () => {
     return (
-        <div className='flex p-5 max-md:p-3 absolute bottom-0 left-0 w-full'>
+        <div className='flex p-5 max-md:p-3 bottom-0 left-0 w-full'>
             <div className="bg-[#8A9FD2] w-full rounded-2xl p-4 h-[240px] max-sm:h-[260px] flex justify-between relative text-white flex-col sm:flex-row">
 
                 <div className="flex flex-col justify-between font-medium">
